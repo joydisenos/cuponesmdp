@@ -22,6 +22,10 @@
     <preference name="SplashScreenDelay" value="10000" />
     <preference name="loadUrlTimeoutValue" value="60000" />
     <preference name="ShowSplashScreenSpinner" value="false"/>
+    <preference name="webviewbounce" value="true" />
+    <preference name="stay-in-webview" value="false" />
+    <preference name="detect-data-types" value="true" />
+    <preference name="exit-on-suspend" value="false" />
 
     <platform name="android">
         <allow-intent href="market:*" />
